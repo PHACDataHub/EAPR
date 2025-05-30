@@ -6,6 +6,6 @@ We’ll go until everyone’s added their piece to the story.
 
 Once upon a time in the mystical land of EAPR, health inequality data flowed in the rivers with abundance. At the heart of this kingdom sat Queen Julia, keeper of the sacred HIRI Data tool, 
 and Empress Alexandra, Supreme Commander of R-Studio, STATA, and all things health inequalities. 
-But one day, a ferocious young dragon named Rabina attacked, wreaking havoc and recoding variables at random....
+But one day, a ferocious young dragon named Rabina attacked, wreaking havoc and recoding variables at random..And Julia the all-time worrier, joined the dragon. 
 
 >> Continue the story here!
